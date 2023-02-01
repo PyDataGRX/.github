@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/PyDataGRX/.github/main/assets/PyData_Granada_logo_1.png"  width="60%" style="display: block; margin: 0 auto">
 
-[English version here!](README_eng.md)
+[English version here!](https://github.com/PyDataGRX/.github/blob/main/profile/README_eng.md)
 
 PyData GRX es un nodo de [Pydata](https://pydata.org) una comunidad internacional donde compartir buenas prácticas, nuevos enfoques y tecnologías para la gestión, el procesamiento, el análisis y la visualización de datos. Las comunidades de PyData abordan la ciencia de datos utilizando muchos lenguajes, incluyendo (pero no limitado a) Python, Julia y R.
 
