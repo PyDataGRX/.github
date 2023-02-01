@@ -1,7 +1,7 @@
 
 # Welcome to PyData GRX!
 
-![logo](https://raw.githubusercontent.com/PyDataGRX/.github/main/assets/PyData_Granada_logo_1.png)
+<img src="https://raw.githubusercontent.com/PyDataGRX/.github/main/assets/PyData_Granada_logo_1.png"  width="60%" style="display: block; margin: 0 auto">
 
 [English version here!](README_eng.md)
 
