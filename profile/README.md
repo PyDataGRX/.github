@@ -16,6 +16,6 @@ En este Github encontraras todos los materiales y recursos que se vayan generand
 - Meetup: [PyData GRX](https://www.meetup.com/es-ES/pydatagrx/)
 - Twitter: [@PyDataGRX](https://twitter.com/python_granada)
 - Mastodon: [@PyDataGRX@masto.ai](https://masto.ai/@pydatagrx)
-- Discord: [PyData GRX](https://discord.gg/mxdnu9Qy)
+- Discord: [PyData GRX](https://discord.gg/XmZWeChMZd)
 
 
